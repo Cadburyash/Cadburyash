@@ -103,7 +103,7 @@ public class Ash {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/asish-jena222522/)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ashishdestination@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://github.com/Cadburyash/iPortFolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://cadburyash.github.io/iPortFolio/)
 
 ---
 
